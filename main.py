@@ -12,7 +12,7 @@ def message_translator(text, src, dest):
     
     
 def main():
-    print(message_translator(text='Hello', src='en', dest='ru'))
+    print(message_translator(text='Hello', src='en', dest='sr'))
 
 
 if __name__ == '__main__':
